@@ -1,4 +1,7 @@
 body{
-    color: green;
-    background: gold
+    background-color: rgb(240, 228, 119);
+    color: black
+    
 
+    font-family: "Cinzel", serif;
+}
